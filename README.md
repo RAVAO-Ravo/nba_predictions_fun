@@ -8,4 +8,4 @@ Ce repository contient un ensemble de codes et de données pour prédire les ré
 
 2. **Scripts Python** : Des scripts Python documentés qui implémentent des utilitaires.
 
-3. **Données** : Les données historiques de la NBA utilisés.
+3. **Données** : Les données historiques de la NBA utilisés. (lien : https://www.kaggle.com/datasets/nathanlauga/nba-games)
